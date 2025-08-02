@@ -1,6 +1,6 @@
 # 🤖 GraphBot — Chat with Your Documents using GraphRAG + Gemini
 
-## 🔗 Live Demo - > 🌐 [Live]((https://graphrag-system.streamlit.app))
+## 🔗 Live Demo - > 🌐 [Live](https://graphrag-system.streamlit.app)
 
 A smart chatbot powered by **Neo4j knowledge graphs**, **semantic vector search (FAISS)**, and **Google Gemini**.  
 Built using `Streamlit` for interactive querying.
