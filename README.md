@@ -41,7 +41,7 @@ graphbot/
 - streamlit run streamlit_app.py
 
 ## How It Works
-Paste input text (e.g. team structure, business logic, etc.)
+Upload ridhamariyam/GraphRAG-System-with-Neo4j--FAISS---Gemini/fruits_quantity_testing_file.png file
 Gemini extracts relationships → stored in Neo4j
 Text is split into chunks → embedded using Gemini
 FAISS indexes the chunks for fast retrieval
